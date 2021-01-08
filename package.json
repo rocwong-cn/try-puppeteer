@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "ali-oss": "^6.12.0",
+    "axios": "^0.21.1",
+    "request": "^2.88.2",
+    "url": "^0.11.0"
+  },
+  "scripts": {
+    "demo1": "node ./src/demo/demo1.js",
+    "demo2": "node ./src/demo/demo2.js",
+    "test": "node ./src/auto-test/index.js"
+  }
+}
